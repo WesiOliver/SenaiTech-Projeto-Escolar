@@ -28,6 +28,9 @@ Este projeto foi desenvolvido como parte do primeiro projeto de Lógica de Progr
 - Juan Moreno
 - Jailson de Jesus
 
+## Nota
+
+Este projeto foi desenvolvido como parte de um trabalho do curso técnico de Análise e Desenvolvimento de Sistemas (ADS).
 
 ## Como Executar:
 1. Clone o repositório:
