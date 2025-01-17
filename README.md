@@ -1,5 +1,6 @@
-# SenaiTech-Projeto-Escolar
-Este projeto foi desenvolvido como parte do curso técnico do Senai Tech e tem como objetivo simular o funcionamento de uma loja de informática. O sistema permite o cadastro de produtos, gerenciamento de assistência técnica e devoluções, e tem como foco demonstrar habilidades adquiridas na programação em C++.
+# SenaiTech: Projeto Escolar
+
+Este projeto foi desenvolvido como parte do primeiro projeto de Lógica de Programção do curso técnico  de Analise e Desenvolvimento de Sistemas do Senai Camaçari, e tem como objetivo simular o funcionamento de uma loja de informática. O sistema permite o cadastro de produtos, gerenciamento de assistência técnica e devoluções, e tem como foco demonstrar habilidades adquiridas na programação em C++.
 
 ![Banner](https://github.com/user-attachments/assets/2500cf33-3af4-4d12-ab54-7bf9a5e1248f)
 
