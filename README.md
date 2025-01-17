@@ -12,6 +12,7 @@ Este projeto foi desenvolvido como parte do primeiro projeto de Lógica de Progr
 
 
 ## Tecnologias e Bibliotecas Utilizadas:
+
 - **Linguagem:** C++
 - **Compilador:** Dev-C++ 5.11
 - **Bibliotecas:**
@@ -21,7 +22,7 @@ Este projeto foi desenvolvido como parte do primeiro projeto de Lógica de Progr
   - `string.h` - Para manipulação de strings.
   - `time.h` - Para funções relacionadas ao tempo.
   - `unistd.h` - Para chamadas ao sistema operacional.
-  - 
+
 ## Particpantes:
 - Leornardo Filho
 - Walderly Junior
