@@ -23,7 +23,7 @@ Este projeto foi desenvolvido como parte do primeiro projeto de Lógica de Progr
   - `time.h` - Para funções relacionadas ao tempo.
   - `unistd.h` - Para chamadas ao sistema operacional.
 
-## Particpantes:
+## Participantes:
 - Leornardo Filho
 - Walderly Junior
 - Juan Moreno
